@@ -1,6 +1,6 @@
 # 🚀 Executive Operations Intelligence Dashboard
 
-> **Enterprise Power BI Reporting Solution for Executive Reporting, Operational Analytics, Workforce Intelligence & Business Performance Monitoring**
+**Enterprise Power BI Reporting Solution for Executive Reporting, Operational Analytics, Workforce Intelligence & Business Performance Monitoring**
 
 ---
 
@@ -41,15 +41,14 @@ Together, these dashboards provide a complete operational intelligence platform 
 
 ---
 
-# 📷 Dashboard Preview
+## 📷 Dashboard Preview
 
-| Dashboard | Preview |
-|-----------|---------|
-| Executive Operations Dashboard | *(Add Screenshot)* |
-| Strategic Initiatives Dashboard | *(Add Screenshot)* |
-| OKRs Dashboard | *(Add Screenshot)* |
-| Workforce Utilization Dashboard | *(Add Screenshot)* |
-| Skills & Certification Dashboard | *(Add Screenshot)* |
+![Dashboard Navigation](Images/Platforms%20PSO%20360%C2%B0_page-0001.jpg)
+![Strategic Initiatives Dashboard](Images/Platforms%20PSO%20360%C2%B0_page-0002.jpg)
+![Executive Operations Dashboard](Images/Platforms%20PSO%20360%C2%B0_page-0003.jpg)
+![Workforce Utilization Dashboard](Images/Platforms%20PSO%20360%C2%B0_page-0004.jpg)
+![Objectives & Key Results (OKRs) Dashboard](Images/Platforms%20PSO%20360%C2%B0_page-0005.jpg)
+![Skills & Certification Dashboard](Images/Platforms%20PSO%20360%C2%B0_page-0006.jpg)
 
 ---
 
@@ -119,7 +118,6 @@ Designed an optimized semantic model to support enterprise reporting across mult
 - Cross-Dashboard Filtering
 - Modular Reporting Architecture
 
-> 📷 **Add Model View Screenshot Here**
 
 ---
 
